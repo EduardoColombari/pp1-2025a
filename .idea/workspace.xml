@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17472405-ae11-41d0-9a28-0f51f1a1698d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lista1/src/MainAluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lista1/src/exe1/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/listas/MainAluno.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/listas/MainCarro.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/listas/exe0/Carro.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/listas/exe1/Aluno.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lista1/src/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/lista1/src/exe0/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lista1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lista1/src/MainCarro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/listas/exe1/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/listas/exe1/Aluno.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.MainAluno.executor": "Run",
+    "Application.MainClientes.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -74,7 +68,8 @@
       <option name="presentableId" value="Default" />
       <updated>1740099817582</updated>
       <workItem from="1740099818683" duration="513000" />
-      <workItem from="1740608756378" duration="3923000" />
+      <workItem from="1740608756378" duration="4102000" />
+      <workItem from="1740701727246" duration="2797000" />
     </task>
     <servers />
   </component>
