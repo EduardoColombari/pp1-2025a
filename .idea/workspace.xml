@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="17472405-ae11-41d0-9a28-0f51f1a1698d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/listas/exe1/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/listas/exe1/Aluno.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +37,7 @@
   "keyToString": {
     "Application.MainAluno.executor": "Run",
     "Application.MainClientes.executor": "Run",
+    "Application.MainProduto.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -70,6 +70,8 @@
       <workItem from="1740099818683" duration="513000" />
       <workItem from="1740608756378" duration="4102000" />
       <workItem from="1740701727246" duration="2797000" />
+      <workItem from="1740704606388" duration="433000" />
+      <workItem from="1741820030810" duration="2486000" />
     </task>
     <servers />
   </component>
