@@ -61,8 +61,8 @@ public class Carro {
         return velocidade;
     }
 
-    @Override
-    public String toString() {
+
+    public String exibeCarro() {
         return "Carro{" +
                 "marca: " + this.marca +
                 "modelo: " + this.modelo +
@@ -70,4 +70,21 @@ public class Carro {
                 "velocidade: " + this.velocidade +
                 "}";
     }
+
+    public void acelerar(float x) {
+        this.setVelocidade(this.velocidade + x);
+        this.vereficaVelMaxima();
+    }
+
+    //frear o carro de x
+    public void frear(float x) {
+        this.setVelocidade(this.velocidade - x);
+    }
+
+    private void vereficaVelMaxima() {
+        if (this.velocidade > 200) {
+            this.velocidade = 200;}
+    }
+
+
 }
