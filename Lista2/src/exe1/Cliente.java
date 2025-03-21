@@ -8,7 +8,9 @@ public class Cliente {
     private float saldo;
 
     public Cliente() {
-
+        this.nome = "sem nome";
+        this.numConta = "sem conta";
+        this.numAgencia = "sem agencia";
     }
 
     public Cliente(String numConta, String numAgencia, String nome, float saldo) {
@@ -83,9 +85,20 @@ public class Cliente {
     }
 
     public void realizarDeposito(float x){
-        this.setSaldo(this.getSaldo() + x);
+        this.setSaldo(this.saldo + x);
     }
 
+    public  void realizarSaque(float x){
+            this.setSaldo(this.saldo - x);
+    }
 
+    public String exibeConta() {
+        return "\nConta{" +
+                " Número: " + this.numConta +
+                " Agência: " + this.numAgencia +
+                " Nome: " + this.nome +
+                " Saldo: " + this.saldo +
+                "}";
+    }
 
 }
